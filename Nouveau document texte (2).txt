@@ -1,0 +1,15 @@
+Algorithme-ex28
+Variables age ,p, i: entier
+Début
+Ecrire ("svp done l'âge d'Amal : ")
+Lire (age)
+p<--0
+
+Pour i <-- 1 à age pas 1 faire
+p <--p + (500 + i *3 )
+
+fin Pour
+
+Ecrire ("La somme de compte d'Amal au ",age, "ième anniversaire est :",s)
+
+Fin
